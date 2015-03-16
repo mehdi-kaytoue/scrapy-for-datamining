@@ -15,8 +15,6 @@ You have access to several speeches: http://millercenter.org/president/. The goa
 ### To test CSS selectors for the data items
 > scrapy shell http://millercenter.org/president/obama/speeches/speech-4427
 
--###################-
--## Happy mining! ##-
--## Share results!##-
--## @MehdiKaytoue ##-
--###################-
+
+# Happy mining! Share results! @MehdiKaytoue
+
